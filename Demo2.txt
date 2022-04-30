@@ -1,0 +1,11 @@
+package  com.bikkadIT
+
+class  student
+
+public static void main(String[]args){
+
+ private string studentname;
+ private int studentId;
+
+
+}
